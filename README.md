@@ -1,6 +1,6 @@
 # 🎬 Movie Recommendation System Based on Category
 
-**By:** Sanjay Sharma & Brijeshkumar Karnavat
+**By:** Sanjay Sharma 
 
 ## Technology Used
 
@@ -36,4 +36,3 @@ The main objective of the project is to provide users with an interactive comman
 
 ---
 
-Feel free to modify the content as needed or add any other details to enhance the project description. Let me know if you'd like further changes!
